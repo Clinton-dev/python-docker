@@ -48,6 +48,10 @@ If you are having trouble running the application, check the following:
 - Make sure that you have Python 3 installed.
 - Make sure that you have installed the dependencies listed in the `requirements.txt` file.
 
+## Deployment
+For deployment to AWS ECR- elastic container registry read the following link [Pushing docker image to aws ECR](https://docs.google.com/document/d/1_NoUw33I2QQWs1zttvIYUFokSyvx84ak5s5a3aZJii0/edit?usp=sharing)
+
+
 ## License
 
 This project is licensed under the MIT License.
